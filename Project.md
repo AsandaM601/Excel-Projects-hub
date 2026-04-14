@@ -1,4 +1,6 @@
-Business Sales Analysis Dashboard (Excel)
+## Business Sales Analysis Dashboard (Excel)
+
+
 This project presents an interactive Sales Analysis Dashboard built using Microsoft Excel to visualize and interpret business sales data.
 
 ##  dataset used
