@@ -12,9 +12,9 @@ The goal of this project was to analyze raw sales data and transform it into mea
 
 ## What I Did
 
-Cleaned and organized the raw dataset in Excel
-Created Pivot Tables to summarize key metrics
-Designed interactive charts and visuals for better understanding
+Cleaned and organized the raw dataset in Excel.
+Created Pivot Tables to summarize key metrics.
+Designed interactive charts and visuals for better understanding.
 Built a dynamic dashboard using:
 Slicers for region filtering
 KPI cards for quick insights
