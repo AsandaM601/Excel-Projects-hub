@@ -10,7 +10,7 @@ This project presents an interactive Sales Analysis Dashboard built using Micros
 
 The goal of this project was to analyze raw sales data and transform it into meaningful insights through data visualization. The dashboard provides a clear summary of sales performance, profitability, and product distribution across different regions and categories.
 
-##What I Did
+## What I Did
 
 Cleaned and organized the raw dataset in Excel
 Created Pivot Tables to summarize key metrics
@@ -27,7 +27,7 @@ Line/area chart for sales by state
 
 
 
-##Key Insights Displayed
+## Key Insights Displayed
 
 Total Sales: £608,583.97
 Total Profit: £39,638.55
@@ -44,7 +44,7 @@ Regional filtering (Central, East, South, West) for focused analysis
 Quantity and sales trends across different states
 
 
-##Features
+## Features
 
 Interactive filtering using slicers
 Clear and visually appealing layout
@@ -52,5 +52,5 @@ Easy-to-read KPIs for decision-making
 Helps identify top-performing categories and regions
 
 
-Conclusion
+## Conclusion
 This dashboard enables quick and effective analysis of business performance, helping stakeholders make data-driven decisions by identifying trends, high-performing segments, and areas that need improvement.
